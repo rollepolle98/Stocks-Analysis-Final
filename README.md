@@ -11,25 +11,25 @@ Now that we created a workbook for Steve to analyze the current data at hand, we
 
 ### VBA Script Speed - 2017 - Original
 
-![](Resources/VBA_Challenge_2017(Original).png) 
+![](Deliverable_1/Resources/VBA_Challenge_2017(Original).png) 
 
 ##### Elapsed Run Time = 3.878906 Seconds
 
 ### VBA Script Speed - 2018 - Original
 
-![](Resources/VBA_Challenge_2018(Original).png) 
+![](Deliverable_1/Resources/VBA_Challenge_2018(Original).png) 
 
 ##### Elapsed Run Time = 4.785156 Seconds
 
 ### VBA Script Speed - 2017 - Refactored
 
-![](Resources/VBA_Challenge_2017(Refactored).png) 
+![](Deliverable_1/Resources/VBA_Challenge_2017(Refactored).png) 
 
 ##### Elapsed Run Time = 0.109375 Seconds
 
 ### VBA Script Speed - 2018 - Refactored
 
-![](Resources/VBA_Challenge_2018(Refactored)_2018.png) 
+![](Deliverable_1/Resources/VBA_Challenge_2018(Refactored)_2018.png) 
 
 ##### Elapsed Run Time = 0.1054688 Seconds
 
